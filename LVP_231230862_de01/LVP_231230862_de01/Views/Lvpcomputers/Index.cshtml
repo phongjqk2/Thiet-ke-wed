@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LVP_231230862_de01.Models.Lvpcomputer>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LvpcomName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvpcomPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LvpcomImage)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lvpcomstatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvpcomName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvpcomPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LvpcomImage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lvpcomstatus)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.LvpcomId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.LvpcomId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.LvpcomId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
