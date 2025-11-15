@@ -1,86 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\",
+  "WorkspaceRootPath": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\major.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\learner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\shared\\components\\leftmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\components\\leftmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\viewcomponents\\leftmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\viewcomponents\\leftmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\day13lab-lab3\\day13lab-lab3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\learners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\shared\\components\\major\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\components\\major\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\shared\\components\\leftmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\components\\leftmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\controllers\\learnerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\learners\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\learners\\learnertable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\learners\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\viewcomponents\\majorviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\learners\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\learners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|c:\\users\\phong\\music\\thiet-ke-wed\\day13lab-lab3\\day13lab-lab3\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D27931AE-3037-4183-B2F4-B9994A0DF4BF}|Day13Lab-Lab3\\Day13Lab-Lab3.csproj|solutionrelative:day13lab-lab3\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,8 +122,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 14,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Major.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Major.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Major.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Major.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Major.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:38:17.936Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -110,206 +155,281 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T15:00:37.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T15:00:36.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_SideBar.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_SideBar.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_SideBar.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_SideBar.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T15:00:35.24Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Day13Lab-Lab3\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Learner.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Learner.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Learner.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Learner.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Learner.cs",
+              "ViewState": "AgIAAAsAAABAMzMzM3MlwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T15:00:18.691Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Day13Lab-Lab3\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T15:00:10.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Day13Lab-Lab3\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAsAAACAMTMzMzMLwBgAAAD2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T14:58:29.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\MenuItem.cs",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\MenuItem.cs",
-              "RelativeToolTip": "Day13Lab-Lab3\\Models\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:36:14.326Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Gender.cs",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Gender.cs",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Gender.cs",
-              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Gender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:36:09.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Branch.cs",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Branch.cs",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Branch.cs",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Branch.cs",
-              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Branch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:36:03.507Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Student.cs",
-              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Student.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:35:21.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Footer.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Footer.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_Footer.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:34:01.348Z",
+              "WhenOpened": "2025-11-15T17:38:14.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_Header.cshtml",
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Course.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:34:03.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:34:06.353Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:36:31.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Mylayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Mylayout.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_Mylayout.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Mylayout.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_Mylayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:34:07.363Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\appsettings.json",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\appsettings.json",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\appsettings.json",
+              "RelativeToolTip": "Day13Lab-Lab3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-15T17:35:27.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAcAAACAMTMzMzMbwBgAAAD2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:34:19.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Student\\Create.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Student\\Create.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Student\\Create.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Student\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Learners\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\Index.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Learners\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:34:54.708Z",
+              "WhenOpened": "2025-11-15T11:10:34.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Learners\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\Edit.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Learners\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T11:10:33.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Learners\\Create.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\Create.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Learners\\Create.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T11:10:31.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LearnersController.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Controllers\\LearnersController.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Controllers\\LearnersController.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Controllers\\LearnersController.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Controllers\\LearnersController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:05:57.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Program.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Program.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Program.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:01:44.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\SchoolDbContext.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Models\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:01:28.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\Details.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Learners\\Details.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\Details.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Learners\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T11:12:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Student.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:35:21.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MajorViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\ViewComponents\\MajorViewComponent.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\ViewComponents\\MajorViewComponent.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\ViewComponents\\MajorViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T11:19:36.827Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\Components\\Major\\Default.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\Components\\Major\\Default.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\Components\\Major\\Default.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\Components\\Major\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T11:22:39.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Mylayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Mylayout.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_Mylayout.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Mylayout.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_Mylayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T12:34:07.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LearnerTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\LearnerTable.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Learners\\LearnerTable.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Learners\\LearnerTable.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Learners\\LearnerTable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T12:01:07.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T12:06:28.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T12:08:42.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T12:15:37.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_SideBar.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_SideBar.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_SideBar.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_SideBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-15T12:15:45.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Gender.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:36:09.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Models\\Branch.cs",
+              "RelativeToolTip": "Day13Lab-Lab3\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T12:36:03.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Student\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Student\\Index.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Student\\Index.cshtml",
               "RelativeToolTip": "Day13Lab-Lab3\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -317,35 +437,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LeftMenuViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\ViewComponents\\LeftMenuViewComponent.cs",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\ViewComponents\\LeftMenuViewComponent.cs",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\ViewComponents\\LeftMenuViewComponent.cs",
-              "RelativeToolTip": "Day13Lab-Lab3\\ViewComponents\\LeftMenuViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T12:36:25.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
-              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
-              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\Components\\LeftMenu\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-14T12:36:46.599Z"
+              "WhenOpened": "2025-11-14T12:34:54.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Day13Lab-Lab3\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -353,15 +461,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 10,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\phong\\Music\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Day13Lab-Lab3\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-14T12:34:18.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "Day13Lab-Lab3\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\phong\\Music\\Thiet-ke-wed\\Day13Lab-Lab3\\Day13Lab-Lab3\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "Day13Lab-Lab3\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-14T12:34:01.348Z"
             }
           ]
         },
