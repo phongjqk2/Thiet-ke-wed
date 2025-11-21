@@ -19,7 +19,7 @@ namespace Day13Lab_Lab3.Controllers
             {
                 listStudents = new List<Student>()
                 {
-                    new Student() { Id = 101, Name = "Lê Văn Phong", Branch = Branch.IT, Gender = Gender.Male, IsRegular = true, Address = "Vĩnh phúc", Email = "p@gmail.com", DateOfBorth = new DateTime(2005, 2, 6), ImagePath="/images/logo.jpg" },
+                    new Student() { Id = 101, Name = "Lê Văn Phong", Branch = Branch.IT, Gender = Gender.Male, IsRegular = true, Address = "Vĩnh Phúc", Email = "p@gmail.com", DateOfBorth = new DateTime(2005, 2,6 ), ImagePath="/images/logo.jpg" },
                     new Student() { Id = 102, Name = "Nguyễn Thị Lan", Branch = Branch.BE, Gender = Gender.Female, IsRegular = true, Address = "Hà Nội", Email = "lan@gmail.com", DateOfBorth= new DateTime(2004, 5, 21), ImagePath="/images/logo.jpg" },
                     new Student() { Id = 103, Name = "Trần Văn Nam", Branch = Branch.CE, Gender = Gender.Male, IsRegular = false, Address = "Hà Nội", Email = "nam@gmail.com", DateOfBorth = new DateTime(2005, 3, 15), ImagePath="/images/logo.jpg" },
                     new Student() { Id = 104, Name = "Lê Thị Hương", Branch = Branch.EE, Gender = Gender.Female, IsRegular = true, Address = "Hà Nội", Email = "huong@gmail.com", DateOfBorth = new DateTime(2004, 11, 30), ImagePath="/images/logo.jpg" }
